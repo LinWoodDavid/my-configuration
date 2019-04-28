@@ -1,0 +1,4 @@
+浏览器访问 http://47.98.108.122:6091/hello
+查看返回的foo和version值
+修改 config-client-dev.properties中的foo和version
+再次访问http://47.98.108.122:6091/hello
